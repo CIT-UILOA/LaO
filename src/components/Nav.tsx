@@ -2,12 +2,12 @@ import { A } from "@solidjs/router";
 
 export default function Nav() {
   return (
-    <nav class="bg-blueberry-200 text-white py-5 px-3 flex gap-6">
+    <nav class="bg-blueberry-200 text-white py-5 px-3 flex gap-6 text-base md:text-xl">
       <A href="/">
         <img src="/logo.png" class="w-12" />
       </A>
       <div class="flex w-full items-center">
-        <ul class="flex gap-3 text-xl italic">
+        <ul class="flex gap-0 md:gap-3 italic">
           <li>
             <A href="/what-we-do">What we do</A>
           </li>
