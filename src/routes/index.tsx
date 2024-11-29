@@ -4,9 +4,9 @@ export default function Index() {
       <div class="w-full h-10 md:h-11 lg:h-20 bg-gold-100" />
       <div class="relative">
         <img
-          src="/hunger.webp"
-          class="saturate-0 w-screen h-[500px] object-cover object-center"
-        />
+              src="/image/hunger.webp"
+              class="saturate-0 w-screen h-[500px] object-cover object-center"
+            />
         <div class=" flex flex-col justify-center absolute top-0 right-10 h-full  w-96 text-center text-white bg-slate-200 bg-opacity-40 p-3">
           <p class="text-xl">
             "If you cannot feed a hundred people, then just feed one"

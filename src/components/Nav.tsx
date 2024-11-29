@@ -4,7 +4,7 @@ export default function Nav() {
   return (
     <nav class="bg-blueberry-200 text-white py-5 px-3 flex gap-6 text-base md:text-xl">
       <A href="/">
-        <img src="/logo.png" class="w-12" />
+        <img src="/image/logo.png" class="w-12" />
       </A>
       <div class="flex w-full items-center">
         <ul class="flex gap-0 md:gap-3 italic">
