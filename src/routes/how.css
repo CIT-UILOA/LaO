@@ -2,7 +2,7 @@
 
 @layer components {
   #how-it-works div > ul > li {
-    @apply w-fit;
+    @apply lg:w-fit;
   }
 
   #how-it-works div > ul > li > *:first-child {

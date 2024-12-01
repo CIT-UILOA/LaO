@@ -7,7 +7,7 @@ export default function Nav() {
         <img src="/image/logo.png" class="w-12" />
       </A>
       <div class="flex w-full items-center">
-        <ul class="flex gap-0 md:gap-3 italic">
+        <ul class="flex gap-7 md:gap-3 italic">
           <li>
             <A href="/what-we-do">What we do</A>
           </li>

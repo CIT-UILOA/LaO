@@ -43,7 +43,7 @@ export default function How() {
 
       <div class="my-2">
         <h1 class="text-4xl">Get Involved</h1>
-        <ul class="flex justify-between text-center mx-auto w-3/4">
+        <ul class="flex justify-between flex-col md:flex-row text-center mx-auto w-3/4">
           <li>
             <BiSolidDonateHeart size={64} />
             <h2>Donate</h2>

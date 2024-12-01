@@ -30,7 +30,7 @@ export default function About() {
         </p>
       </div>
       <hr class=" mx-auto my-4 h-1 w-5/6 bg-gold-300 border-none  rounded-xl" />
-      <div class="flex gap-5 mx-auto w-fit">
+      <div class="flex sm:flex-col md:flex-row gap-3 md:gap-52 mx-auto w-fit">
         <div>
           <h2 class="text-4xl">List of Members:</h2>
           <ul>
