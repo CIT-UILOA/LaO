@@ -10,7 +10,8 @@ export default function Footer() {
       } text-center`}
     >
       <p>
-        Law & Order © 2024 • Made with ♥ by{" "}
+        Law & Order © 2024 • Made with <i class="nf nf-fa-heart text-red-600" />{" "}
+        by{" "}
         <a
           class="underline text-gold-300"
           target="_blank"

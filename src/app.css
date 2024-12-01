@@ -1,3 +1,4 @@
+@import "https://www.nerdfonts.com/assets/css/webfont.css";
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap");
 
 @tailwind base;
@@ -8,9 +9,6 @@
   .button {
     @apply bg-blueberry-400 text-white rounded-lg p-2;
   }
-
-  /* mx-auto my-3 w-96 md:w-3/4 md:text-justify */
-  /* mx-auto my-3 w-96 md:w-3/4 md:text-justify leading-relaxed  */
 
   main {
     @apply mx-auto my-3 w-64 md:w-3/4 text-justify leading-relaxed;
