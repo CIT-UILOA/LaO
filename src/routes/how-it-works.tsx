@@ -6,7 +6,7 @@ import "./how.css";
 
 export default function How() {
   return (
-    <main>
+    <main id="how-it-works">
       <h1>Our Approach</h1>
 
       <ul class="my-2">

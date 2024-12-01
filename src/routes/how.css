@@ -1,23 +1,23 @@
 @tailwind components;
 
 @layer components {
-  div > ul > li {
+  #how-it-works div > ul > li {
     @apply w-fit;
   }
 
-  div > ul > li > *:first-child {
+  #how-it-works div > ul > li > *:first-child {
     @apply mx-auto w-16;
   }
 
-  div > ul > li > h2 {
+  #how-it-works div > ul > li > h2 {
     @apply font-bold text-lg;
   }
 
-  ul > li > h2 {
+  #how-it-works ul > li > h2 {
     @apply font-medium text-xl;
   }
 
-  ul > li > p {
+  #how-it-works ul > li > p {
     @apply mx-4;
   }
 }
