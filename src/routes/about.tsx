@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <main>
-      <h1 class="text-6xl">About Us</h1>
+      <h1>About Us</h1>
       <div class="text-justify flex flex-col gap-5 text-lg mx-5">
         <p>
           Law & Order is a non-profit organization founded by a group of

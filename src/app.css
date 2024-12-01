@@ -15,4 +15,8 @@
   main {
     @apply mx-auto my-3 w-64 md:w-3/4 text-justify leading-relaxed;
   }
+
+  main h1:first-child {
+    @apply text-6xl mb-2;
+  }
 }

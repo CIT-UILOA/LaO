@@ -7,7 +7,7 @@ import "./how.css";
 export default function How() {
   return (
     <main>
-      <h1 class="text-6xl">Our Approach</h1>
+      <h1>Our Approach</h1>
 
       <ul class="my-2">
         <li>

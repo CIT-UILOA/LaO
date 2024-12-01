@@ -3,7 +3,7 @@ import "./what.css";
 export default function What() {
   return (
     <main>
-      <h1 class="text-6xl">Mission Statement</h1>
+      <h1>Mission Statement</h1>
       <p class="py-2">
         Law & Order is committed to eradicating hunger worldwide by fostering
         sustainable food systems, advocating for policy change, and providing
