@@ -6,7 +6,7 @@ export default function Index() {
   console.log(num_pulled);
 
   return (
-    <main class="flex flex-col h-svh">
+    <div class="flex flex-col h-svh">
       <div class="w-full h-10 md:h-11 lg:h-20 bg-gold-100" />
       <div class="relative">
         <Switch
@@ -57,6 +57,6 @@ export default function Index() {
           </Switch>
         </div>
       </div>
-    </main>
+    </div>
   );
 }
