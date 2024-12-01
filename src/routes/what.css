@@ -1,0 +1,11 @@
+@tailwind components;
+
+@layer components {
+  ol > li {
+    @apply list-decimal;
+  }
+
+  ol ul > li {
+    @apply list-disc mx-3;
+  }
+}
