@@ -45,18 +45,18 @@ export default function How() {
         <h1 class="text-4xl">Get Involved</h1>
         <ul class="flex justify-between text-center mx-auto w-3/4">
           <li>
-            <BiSolidDonateHeart size={24} />
+            <BiSolidDonateHeart size={64} />
             <h2>Donate</h2>
             <p>Every dollar feeds a hungry family.</p>
           </li>
           <li>
             {/* <FiUsers /> */}
-            <ImUsers size={24} />
+            <ImUsers size={64} />
             <h2>Volunteer</h2>
             <p>Join our efforts and make a difference on the ground.</p>
           </li>
           <li>
-            <FaSolidHandshake size={24} />
+            <FaSolidHandshake size={64} />
             <h2>Partner With Us</h2>
             <p>Collaborate to create a hunger-free world.</p>
           </li>

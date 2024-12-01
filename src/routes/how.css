@@ -6,7 +6,7 @@
   }
 
   div > ul > li > *:first-child {
-    @apply mx-auto w-6;
+    @apply mx-auto w-16;
   }
 
   div > ul > li > h2 {
