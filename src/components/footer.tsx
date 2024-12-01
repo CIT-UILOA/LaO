@@ -7,7 +7,7 @@ export default function Footer() {
         useLocation().pathname == "/"
           ? "bg-blueberry-200 text-white"
           : "bg-inherit text-inherit"
-      } text-center`}
+      } text-center py-5`}
     >
       <p>
         Law & Order © 2024 • Made with <i class="nf nf-fa-heart text-red-600" />{" "}
